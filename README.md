@@ -1,8 +1,5 @@
 # Customer_Churn_Prediction
 
-Sure! Here is a sample README file for your project:
-
----
 
 # Customer Churn Prediction
 
@@ -131,7 +128,3 @@ weighted avg       0.85      0.86      0.85      2000
 Based on the evaluation metrics, the most favorable model can be determined. In this example, the Gradient Boosting model shows the highest ROC AUC and provides a good balance between precision and recall for predicting customer churn.
 
 
-
----
-
-Feel free to customize this README file according to your project's specific needs and additional details.
