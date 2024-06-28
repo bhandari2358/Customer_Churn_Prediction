@@ -1,6 +1,3 @@
-# Customer_Churn_Prediction
-
-
 # Customer Churn Prediction
 
 This project aims to predict customer churn for a subscription-based service or business using historical customer data. The dataset includes various features such as usage behavior and customer demographics. Different machine learning algorithms, including Logistic Regression, Random Forests, and Gradient Boosting, are used to predict churn.
